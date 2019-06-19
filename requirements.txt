@@ -1,0 +1,7 @@
+Flask
+gunicorn
+openpyxl
+reportlab
+qrcode
+PyPDF2
+waitress
